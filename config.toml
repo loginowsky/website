@@ -1,0 +1,5 @@
+baseURL = 'https://loginovsky.com/'
+languageCode = 'en-us'
+title = 'loginovsky.com'
+theme="archie"
+publishDir = 'docs'
