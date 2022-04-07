@@ -8,8 +8,8 @@ paginate = 8
 
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name = "About"
+    identifier = "home"
+    name = "Home"
     url = "/"
     weight = 1
     # Graduated as a System Engineer
@@ -24,12 +24,12 @@ paginate = 8
   [[menu.main]]
     identifier = "cv"
     name = "CV"
-    url = "/cv/"
+    url = "/posts/cv/"
     weight = 2
   [[menu.main]]
     identifier = "projects"
     name = "Projects"
-    url = "/projects/" 
+    url = "/posts/projects/"
     weight = 3
     # Active projects
         # World Chess DevOps and Cloud Engineer (reference to worldchess.com)
