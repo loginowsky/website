@@ -1,5 +1,58 @@
 baseURL = 'https://loginovsky.com/'
 languageCode = 'en-us'
-title = 'loginovsky.com'
-theme="archie"
+title = "Michael Loginovsky"
+theme = "m10c"
 publishDir = 'docs'
+#themesDir = "../.."
+paginate = 8
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/"
+    weight = 1
+    # Graduated as a System Engineer in 1998
+    # Have been working in IT sphere for 20+ years
+    # Participated in dozens projects as system/network administrator, system developer, system architect
+    # As a _Head of Ifrastructure_ participated in building of infrastructure for an MMOG with 1M+ simultaneous players
+    # Switched to _The Cloud_ and became an adherent of _Cloud Native_:
+        # AWS - authored learning course on how to [Quickly switch to AWS for System Administrators](link to gitlab.com/cloud-simply/ce)
+        # Kubernetes - [CKA](link to Certificate), [CKAD](link to Certificate) cerified (CKS is in progress)
+        # IaC - Terraform Associate cerified
+  [[menu.main]]
+    identifier = "cv"
+    name = "CV"
+    url = "/cv/"
+    weight = 2
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/" 
+    weight = 3
+    # Active projects
+        # World Chess DevOps and Cloud Engineer (reference to worldchess.com)
+        # tilson-biz (reference to tilson.biz)
+        # Cloud Engineering Cirriculum (reference to github.com/cloud-simply/ce)
+
+[params]
+  author = "Michael Loginovsky"
+  description = "Cloud engineer, IaC automation adherent, delighted with Kubernetes"
+  menu_item_separator = " | "
+  favicon = "/favicon.png"
+  [[params.social]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/mtilson"
+  [[params.social]]
+    icon = "linkedin"
+    name = "linkedIn"
+    url = "https://www.linkedin.com/in/mloginovsky"
+
+  # My theme
+  [params.style]
+    darkestColor = "#242930"
+    darkColor = "#353b43"
+    lightColor = "#afbac4"
+    lightestColor = "#ffffff"
+    primaryColor = "#6fa8dcff"
