@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bio on Michael Loginovsky</title>
-    <link>https://loginovsky.com/</link>
-    <description>Recent content in Bio on Michael Loginovsky</description>
+    <title>Posts on Michael Loginovsky</title>
+    <link>https://loginovsky.com/posts/</link>
+    <description>Recent content in Posts on Michael Loginovsky</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Apr 2022 10:59:17 +0400</lastBuildDate><atom:link href="https://loginovsky.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2022 10:59:17 +0400</lastBuildDate><atom:link href="https://loginovsky.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Michael Loginovsky</title>
       <link>https://loginovsky.com/posts/cv/</link>
