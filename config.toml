@@ -1,6 +1,6 @@
 baseURL = 'https://loginovsky.com/'
 languageCode = 'en-us'
-title = "Michael Loginovsky"
+title = "About"
 theme = "m10c"
 publishDir = 'docs'
 #themesDir = "../.."
@@ -12,14 +12,15 @@ paginate = 8
     name = "About"
     url = "/"
     weight = 1
-    # Graduated as a System Engineer in 1998
+    # Graduated as a System Engineer
     # Have been working in IT sphere for 20+ years
     # Participated in dozens projects as system/network administrator, system developer, system architect
-    # As a _Head of Ifrastructure_ participated in building of infrastructure for an MMOG with 1M+ simultaneous players
-    # Switched to _The Cloud_ and became an adherent of _Cloud Native_:
-        # AWS - authored learning course on how to [Quickly switch to AWS for System Administrators](link to gitlab.com/cloud-simply/ce)
+    # As a **Head of Infrastructure** participated in building an MMOG application with 1M+ simultaneous players
+    # Switched to **The Cloud** and became adherent of **cloud native** foundation:
+        # AWS - the author of the introductory tutorial on how to [Quickly switch to AWS for System Administrators](link to gitlab.com/cloud-simply/ce)
+        # IaC - [Terraform Associate](link to Certificate) cerified
         # Kubernetes - [CKA](link to Certificate), [CKAD](link to Certificate) cerified (CKS is in progress)
-        # IaC - Terraform Associate cerified
+	# GoLang - have got slight experience with pet projects](https://gist.github.com/mtilson)
   [[menu.main]]
     identifier = "cv"
     name = "CV"
