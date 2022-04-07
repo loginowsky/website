@@ -1,6 +1,6 @@
 baseURL = 'https://loginovsky.com/'
 languageCode = 'en-us'
-title = "About"
+title = "Michael Loginovsky"
 theme = "m10c"
 publishDir = 'docs'
 #themesDir = "../.."
