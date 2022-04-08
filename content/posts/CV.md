@@ -160,6 +160,7 @@ _1993 – 1998_
 ## Skills
 
 * Linux
+* Shell
 * Kubernetes
 * Terraform
 * AWS
