@@ -126,36 +126,38 @@ _1993 – 1998_
 
 #### RU202: Redis Streams - Redis
 
-* Issued May 2019
-* Credential ID 12a4cf4c0edd428ca0ec7dbd2900cd3f
+* Issued: [May 2019](https://university.redis.com/certificates/12a4cf4c0edd428ca0ec7dbd2900cd3f)
+* Expires: N/A
 
 #### RU101: Introduction to Redis Data Structures - Redis
 
-* Issued May 2019
-* Credential ID 82e876f612dc4522a3e91ad2f4bdbc2d
+* Issued: [May 2019](https://university.redis.com/certificates/82e876f612dc4522a3e91ad2f4bdbc2d)
+* Expires: N/A
 
 #### Cloud Engineering with Google Cloud Specialization - Coursera
 
-* Issued [Apr 2020](https://www.coursera.org/account/accomplishments/specialization/certificate/L8Y3ZBVNNPR3)
+* Issued: [Apr 2020](https://www.coursera.org/account/accomplishments/specialization/certificate/L8Y3ZBVNNPR3)
+* Expires: N/A
 
 #### Data Engineering with Google Cloud Specialization - Coursera
 
-* Issued [Jun 2020](https://www.coursera.org/account/accomplishments/specialization/certificate/VC9DQWVDJ4JB)
+* Issued: [Jun 2020](https://www.coursera.org/account/accomplishments/specialization/certificate/VC9DQWVDJ4JB)
+* Expires: N/A
 
 #### CKA: Certified Kubernetes Administrator - The Linux Foundation
 
-* Issued [Jan 2022](https://www.credly.com/badges/1c99169b-69b2-4379-ae30-51e8d50e5805)
-* Expires Jan 2025
+* Issued: [Jan 2022](https://www.credly.com/badges/1c99169b-69b2-4379-ae30-51e8d50e5805)
+* Expires: Jan 2025
 
 #### CKAD: Certified Kubernetes Application Developer - The Linux Foundation
 
-* Issued [Dec 2021](https://www.credly.com/badges/aa96608c-241b-4888-8fd0-9430baf80def)
-* Expires Dec 2024
+* Issued: [Dec 2021](https://www.credly.com/badges/aa96608c-241b-4888-8fd0-9430baf80def)
+* Expires: Dec 2024
 
 #### HashiCorp Certified: Terraform Associate - HashiCorp
 
-* Issued [Mar 2022](https://www.credly.com/badges/fd38932a-23e5-476b-bdba-4783cbede490)
-* Expires Mar 2024
+* Issued: [Mar 2022](https://www.credly.com/badges/fd38932a-23e5-476b-bdba-4783cbede490)
+* Expires: Mar 2024
 
 ## Skills
 
