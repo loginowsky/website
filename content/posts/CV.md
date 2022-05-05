@@ -128,7 +128,7 @@ _1993 – 1998_
 
 #### HashiCorp Certified: Terraform Associate |  [HashiCorp](https://www.hashicorp.com/certification/terraform-associate)
 
-* Issued:  [Mar 2022](https://www.credly.com/badges/fd38932a-23e5-476b-bdba-4783cbede490) | [pdf](https://acclaim-production-app.s3.amazonaws.com/uploads/printable_pdf/printable_pdf/15499a8c-412c-49a9-bfd8-a4a4b781c331/HashiCorp_Certified__Terraform_Associate_Badge20220409-46-1fg3865.pdf?response-content-disposition=attachment&X-Amz-Expires=604800&X-Amz-Date=20220409T083200Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJLA3MEMCDJNPNG2Q%2F20220409%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=1d91208beda212b8b85d69078ac2d6e52c331f56a58ee61f51b7e7419b2b238a)
+* Issued:  [Mar 2022](https://www.credly.com/badges/fd38932a-23e5-476b-bdba-4783cbede490) | [pdf](https://loginovsky.com/terraform-associate.pdf)
 * Expires: Mar 2024
 
 #### CKA: Certified Kubernetes Administrator |  [The Linux Foundation](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
