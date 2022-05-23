@@ -19,17 +19,26 @@
 
 _Sep 2020 – Present_
 
-* Cloud Infrastructure
-  * RDS, ElastiCache, Amazon MQ, EKS, ECR, Route53, ACM, ELB, ASG, Client VPN, IAM, S3, CloudFront
+* Cloud infrastructure design and implementation (with AWS Cloud Platform)
+  * Compute: EC2, EC2 Auto Scaling, EC2 Spot Instances
+  * Containers: EKS, Fargate, ECR
+  * Databases: RDS (for PostgreSQL, for SQL Server), ElastiCache
+  * Messaging: SNS, SQS, MQ for RabbitMQ
+  * Networking: VPC, ELB, VPN, Route 53, CloudFront
+  * Security & identity: IAM, KMS, ACM,
+  * Storage: EBS, S3, S3 Glacier
+  * Operations: CloudWatch, CloudWatch Logs, CloudTrail
+* Application autoscaling for Kubernetes
+  * HPA, Cluster Autoscaler, KEDA
 * Pipeline Automation
   * GitLab, Bitbucket, Kubernetes, Helm, Docker
-* DevOps Engineering
-  * Amazon Kinesis Video Streams for WebRTC
-  * Amazon Chime SDK for messaging
-  * Redis based routing for Nginx with Lua
-  * Amazon API Gateway with Amazon Cognito for JWT authorisation
+* Design and development PoC/MVP for evaluation
+  * WebRTC, Amazon Kinesis Video Streams
+  * Amazon Chime SDK messaging
+  * Nginx, Redis, Lua
+  * Amazon API Gateway, Amazon Cognito, JWT authorisation
 
-#### Backend Developeri in  [Tilson Biz](https://tilson.biz), _self-employed_
+#### Backend Developer in  [Tilson Biz](https://tilson.biz), _self-employed_
 
 _Feb 2020 – Present_
 
