@@ -14,7 +14,7 @@
       
       <guid>https://loginovsky.com/posts/cv/</guid>
       <description>michael-loginovsky.pdf michael@loginovsky.com github.com/tilson linkedin.com/in/mloginovsky  Summary  EKS, GKE, Kubernetes (certified), Helm Terraform (certified), Vagrant, Packer, Vault Bitbucket Pipelines, GitLab CI, GitHub Actions Golang, Microservices, REST, gRPC Ansible, AWX, Kubespray  Experience Cloud Engineer in World Chess Sep 2020 – Present
- Cloud Infrastructure  RDS, ElastiCache, Amazon MQ, EKS, ECR, Route53, ACM, ELB, ASG, Client VPN, IAM, S3, CloudFront   Pipeline Automation  GitLab, Bitbucket, Kubernetes, Helm, Docker   DevOps Engineering  Amazon Kinesis Video Streams for WebRTC Amazon Chime SDK for messaging Redis based routing for Nginx with Lua Amazon API Gateway with Amazon Cognito for JWT authorisation    Backend Developeri in Tilson Biz, self-employed Feb 2020 – Present</description>
+ Cloud infrastructure design and implementation (with AWS Cloud Platform)  Compute: EC2, EC2 Auto Scaling, EC2 Spot Instances Containers: EKS, Fargate, ECR Databases: RDS (for PostgreSQL, for SQL Server), ElastiCache Messaging: SNS, SQS, MQ for RabbitMQ Networking: VPC, ELB, VPN, Route 53, CloudFront Security &amp;amp; identity: IAM, KMS, ACM, Storage: EBS, S3, S3 Glacier Operations: CloudWatch, CloudWatch Logs, CloudTrail   Application autoscaling for Kubernetes  HPA, Cluster Autoscaler, KEDA   Pipeline Automation  GitLab, Bitbucket, Kubernetes, Helm, Docker   Design and development PoC/MVP for evaluation  WebRTC, Amazon Kinesis Video Streams Amazon Chime SDK messaging Nginx, Redis, Lua Amazon API Gateway, Amazon Cognito, JWT authorisation    Backend Developer in Tilson Biz, self-employed Feb 2020 – Present</description>
     </item>
     
     <item>
