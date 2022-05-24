@@ -29,13 +29,13 @@ _Sep 2020 – Present_
   * Containers: EKS, Fargate, ECR
   * Databases: RDS (for PostgreSQL, for SQL Server), ElastiCache
   * Messaging: SNS, SQS, MQ for RabbitMQ
-  * Networking: VPC, ELB, VPN, Route 53, CloudFront
-  * Security & identity: IAM, KMS, ACM,
+  * Networking: VPC, ELB, VPN, Route 53, CloudFront, Global Accelerator
+  * Security & identity: IAM, KMS, ACM
   * Storage: EBS, S3, S3 Glacier
   * Operations: CloudWatch, CloudWatch Logs, CloudTrail
 * Application autoscaling for Kubernetes
   * HPA, Cluster Autoscaler, KEDA
-* Pipeline Automation
+* CI/CD pipeline automation
   * GitLab, Bitbucket, Kubernetes, Helm, Docker
 * Design and development PoC/MVP for evaluation
   * WebRTC, Amazon Kinesis Video Streams
