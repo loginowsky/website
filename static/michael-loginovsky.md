@@ -2,7 +2,7 @@
 
 * [michael-loginovsky.pdf](https://loginovsky.com/michael-loginovsky.pdf)
 * [michael@loginovsky.com](mailto:michael@loginovsky.com)
-* [github.com/tilson](https://github.com/mtilson)
+* [github.com/aws-simple](https://github.com/orgs/cloud-simple/repositories)
 * [linkedin.com/in/mloginovsky](https://linkedin.com/in/mloginovsky)
 
 ## Summary
