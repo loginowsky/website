@@ -2,7 +2,8 @@ baseURL = 'https://loginovsky.com/'
 languageCode = 'en-us'
 title = "Michael Loginovsky"
 theme = "m10c"
-publishDir = 'docs'
+### publishDir = 'docs'
+publishDir = 'public'
 #themesDir = "../.."
 paginate = 8
 
