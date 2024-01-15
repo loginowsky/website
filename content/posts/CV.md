@@ -7,14 +7,14 @@ type: "page"
 
 * [michael-loginovsky.pdf](https://loginovsky.com/michael-loginovsky.pdf)
 * [michael@loginovsky.com](mailto:michael@loginovsky.com)
-* [github.com/aws-simple](https://github.com/orgs/cloud-simple/repositories)
+* [github.com/mtilson](https://github.com/mtilson)
 * [linkedin.com/in/mloginovsky](https://linkedin.com/in/mloginovsky)
 
 ## Summary
 
-* EKS, GKE, Kubernetes (certified), Helm
+* EKS, GKE, Kubernetes (3x certified), Helm
 * Terraform (certified), Vagrant, Packer, Vault
-* Bitbucket Pipelines, GitLab CI, GitHub Actions
+* GitLab CI, GitHub Actions
 * Golang, Microservices, REST, gRPC
 * Ansible, AWX, Kubespray
 
@@ -36,7 +36,9 @@ _Sep 2020 – Present_
 * Application autoscaling for Kubernetes
   * HPA, Cluster Autoscaler, KEDA
 * CI/CD pipeline automation
-  * GitLab, Bitbucket, Kubernetes, Helm, Docker
+  * GitLab, Bitbucket, Kubernetes, Helm, Helmfile, Docker
+* Deployment ML engines to partner on-primise DC location
+  * Ansible, AutoSSH, SSH tunelling
 * Design and development PoC/MVP for evaluation
   * WebRTC, Amazon Kinesis Video Streams
   * Amazon Chime SDK messaging
@@ -45,7 +47,7 @@ _Sep 2020 – Present_
 
 #### Backend Developer in  [Tilson Biz](https://tilson.biz), _self-employed_
 
-_Feb 2020 – Present_
+_Feb 2020 – Feb 2022_
 
 * Golang, Microservices, REST, gRPC
 * GitHub Actions, Docker, Kubernetes
@@ -75,7 +77,7 @@ _Oct 2007 – Jan 2009_
 * Production environment system administration
   * RHEL, CentOS, Debian, VMWare, Svn, Apache, MySQL, sendmail
 
-#### Lead System Engineer in Belarusian Telecommunication Network
+#### Lead System Engineer in  [Belarusian Telecommunication Network](https://life.com.by)
 
 _May 2005 – Jun 2007_
 
@@ -85,7 +87,7 @@ _May 2005 – Jun 2007_
   * HP ProLiant, HP AlphaServers, HP Integrity, Alcatel 8690 OSP 2.3, Cisco MDS 9000
   * Corba, SS7, GSM
 
-#### Linux System Administrator in Elilink Consulting
+#### Linux System Administrator in  [Elilink Consulting](https://www.elilink.com)
 
 _Oct 2004 – May 2005_
 
@@ -137,7 +139,7 @@ _1993 – 1998_
 
 #### HashiCorp Certified: Terraform Associate |  [HashiCorp](https://www.hashicorp.com/certification/terraform-associate)
 
-* Issued:  [Mar 2022](https://www.credly.com/badges/fd38932a-23e5-476b-bdba-4783cbede490) | [pdf](https://loginovsky.com/terraform-associate.pdf)
+* Issued:  [Mar 2022](https://www.credly.com/badges/4e1288d6-0675-44ae-a533-55869d5911a3/public_url) | [pdf](https://loginovsky.com/michael-loginovsky-tf-associate.pdf)
 * Expires: Mar 2024
 
 #### CKA: Certified Kubernetes Administrator |  [The Linux Foundation](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)

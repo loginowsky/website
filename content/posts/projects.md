@@ -5,6 +5,6 @@ draft: false
 type: "page"
 ---
 
-* Helping small business to [switch to *The Cloud*](https://tilson.biz)
-* Cloud engineer and DevOps in [World Chess](https://worldchess.com)
-* Teaching system administrators to [start using AWS](https://github.com/cloud-simply/cloud-engineering-aws)
+* Cloud engineering in [World Chess](https://worldchess.com)
+* Helping small businesses to [move to *'The Cloud'*](https://tilson.biz)
+* Helping system administrators to [start using AWS](https://github.com/cloud-simply/cloud-engineering-aws)

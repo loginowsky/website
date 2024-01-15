@@ -5,7 +5,7 @@ draft: false
 type: "page"
 ---
 
-> Graduated as a **System Engineer** from **Belarusian State University of Informatics and Radioelectronics** in 1998. Participated in a dozen of projects as **System/Network Administrator/Developer/Architect**. As a **Head of Infrastructure** participated in building of an MMOG application with 1M+ simultaneous players. In 2016, moved to *The Cloud* and began working as an independent entrepreneur providing **Cloud Engineer** services, practicing the **DevSecOps** methodology
+> Graduated as a **System Engineer** from **Belarusian State University of Informatics and Radioelectronics** in 1998. Participated in a dozen of projects as **System/Network Administrator/Developer/Architect**. As a **Head of Infrastructure** participated in building of an MMOG application with 1M+ simultaneous players. In 2016, moved to *'The Cloud'* and began working as an independent entrepreneur providing **Cloud Engineer** services, practicing **DevSecOps** methodology
 
 ## Certificates
 
