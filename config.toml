@@ -12,15 +12,6 @@ paginate = 8
     name = "Home"
     url = "/"
     weight = 1
-    # Graduated as a System Engineer
-    # Have been working in IT sphere for 20+ years
-    # Participated in a dozen of projects as system/network administrator/developer/architect
-    # As a **Head of Infrastructure** participated in building an MMOG application with 1M+ simultaneous players
-    # Switched to **The Cloud** and became adherent of **cloud native** foundation:
-        # AWS - the author of the introductory tutorial on how to [Quickly switch to AWS for System Administrators](link to gitlab.com/cloud-simply/ce)
-        # IaC - [Terraform Associate](link to Certificate) cerified
-        # Kubernetes - [CKA](link to Certificate), [CKAD](link to Certificate) cerified (CKS is in progress)
-	# GoLang - have got slight experience with pet projects](https://gist.github.com/mtilson)
   [[menu.main]]
     identifier = "cv"
     name = "CV"
@@ -31,14 +22,10 @@ paginate = 8
     name = "Projects"
     url = "/posts/projects/"
     weight = 3
-    # Active projects
-        # World Chess DevOps and Cloud Engineer (reference to worldchess.com)
-        # tilson-biz (reference to tilson.biz)
-        # Cloud Engineering Cirriculum (reference to github.com/cloud-simply/ce)
 
 [params]
   author = "Michael Loginovsky"
-  description = "Cloud engineer, IaC automation adherent, delighted with Kubernetes"
+  description = "Cloud engineering, IaC automation, DevSecOps with Kubernetes"
   menu_item_separator = " | "
   favicon = "/favicon.png"
   [[params.social]]
