@@ -7,7 +7,7 @@
 
 ## Summary
 
-* EKS, GKE, Kubernetes (3x certified), Helm
+* EKS, GKE, Kubernetes (3x certified), Helm, Helmfile
 * Terraform (certified), Vagrant, Packer, Vault
 * GitLab CI, GitHub Actions
 * Golang, Microservices, REST, gRPC
@@ -32,7 +32,7 @@ _Sep 2020 – Present_
   * HPA, Cluster Autoscaler, KEDA
 * CI/CD pipeline automation
   * GitLab, Bitbucket, Kubernetes, Helm, Helmfile, Docker
-* Deployment ML engines to partner on-primise DC location
+* Deployment ML engines to partner on-premise DC location
   * Ansible, AutoSSH, SSH tunelling
 * Design and development PoC/MVP for evaluation
   * WebRTC, Amazon Kinesis Video Streams
