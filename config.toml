@@ -31,7 +31,7 @@ paginate = 8
   [[params.social]]
     icon = "github"
     name = "Github"
-    url = "https://github.com/cloud-simple"
+    url = "https://github.com/mtilson"
   [[params.social]]
     icon = "linkedin"
     name = "linkedIn"
