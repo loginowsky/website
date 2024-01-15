@@ -137,6 +137,11 @@ _1993 – 1998_
 
 ## Licenses & certifications
 
+#### CKS: Certified Kubernetes Security Specialist |  [The Linux Foundation](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/)
+
+* [Issued](https://www.credly.com/badges/fd2cabdf-7961-4f1a-b0f2-ba5701cc3fdc/public_url): [Dec 2023](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/74e4c2de-5b8b-5e82-a9a2-07b81ecb6108-michael-loginovsky-afdc8130-9dd6-4a4f-939d-2869de1ff09b-certificate.pdf) | [pdf](https://loginovsky.com/michael-loginovsky-cks.pdf)
+* Expires: Dec 2025
+
 #### HashiCorp Certified: Terraform Associate |  [HashiCorp](https://www.hashicorp.com/certification/terraform-associate)
 
 * Issued:  [Mar 2022](https://www.credly.com/badges/4e1288d6-0675-44ae-a533-55869d5911a3/public_url) | [pdf](https://loginovsky.com/michael-loginovsky-tf-associate.pdf)
@@ -144,12 +149,12 @@ _1993 – 1998_
 
 #### CKA: Certified Kubernetes Administrator |  [The Linux Foundation](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 
-* Issued:  [Jan 2022](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/74e4c2de-5b8b-5e82-a9a2-07b81ecb6108-michael-loginovsky-5b222273-00b3-4610-9cd4-e0ea4099325a-certificate.pdf)
+* [Issued](https://www.credly.com/badges/1c99169b-69b2-4379-ae30-51e8d50e5805/public_url):  [Jan 2022](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/74e4c2de-5b8b-5e82-a9a2-07b81ecb6108-michael-loginovsky-5b222273-00b3-4610-9cd4-e0ea4099325a-certificate.pdf) | [pdf](https://loginovsky.com/michael-loginovsky-cka.pdf)
 * Expires: Jan 2025
 
 #### CKAD: Certified Kubernetes Application Developer |  [The Linux Foundation](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
 
-* Issued:  [Dec 2021](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/74e4c2de-5b8b-5e82-a9a2-07b81ecb6108-michael-loginovsky-c7aa2ab5-5dfa-4649-8271-cfe34ba7bb06-certificate.pdf)
+* [Issued](https://www.credly.com/badges/aa96608c-241b-4888-8fd0-9430baf80def/public_url):  [Dec 2021](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/74e4c2de-5b8b-5e82-a9a2-07b81ecb6108-michael-loginovsky-c7aa2ab5-5dfa-4649-8271-cfe34ba7bb06-certificate.pdf) | [pdf](https://loginovsky.com/michael-loginovsky-ckad.pdf)
 * Expires: Dec 2024
 
 #### Preparing for Google Cloud Certification: Cloud Data Engineer |  [Coursera](https://www.coursera.org/professional-certificates/gcp-data-engineering)

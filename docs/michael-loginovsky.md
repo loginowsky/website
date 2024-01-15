@@ -2,14 +2,14 @@
 
 * [michael-loginovsky.pdf](https://loginovsky.com/michael-loginovsky.pdf)
 * [michael@loginovsky.com](mailto:michael@loginovsky.com)
-* [github.com/aws-simple](https://github.com/orgs/cloud-simple/repositories)
+* [github.com/mtilson](https://github.com/mtilson)
 * [linkedin.com/in/mloginovsky](https://linkedin.com/in/mloginovsky)
 
 ## Summary
 
-* EKS, GKE, Kubernetes (certified), Helm
+* EKS, GKE, Kubernetes (3x certified), Helm
 * Terraform (certified), Vagrant, Packer, Vault
-* Bitbucket Pipelines, GitLab CI, GitHub Actions
+* GitLab CI, GitHub Actions
 * Golang, Microservices, REST, gRPC
 * Ansible, AWX, Kubespray
 
@@ -31,7 +31,9 @@ _Sep 2020 – Present_
 * Application autoscaling for Kubernetes
   * HPA, Cluster Autoscaler, KEDA
 * CI/CD pipeline automation
-  * GitLab, Bitbucket, Kubernetes, Helm, Docker
+  * GitLab, Bitbucket, Kubernetes, Helm, Helmfile, Docker
+* Deployment ML engines to partner on-primise DC location
+  * Ansible, AutoSSH, SSH tunelling
 * Design and development PoC/MVP for evaluation
   * WebRTC, Amazon Kinesis Video Streams
   * Amazon Chime SDK messaging
@@ -40,7 +42,7 @@ _Sep 2020 – Present_
 
 #### Backend Developer in  [Tilson Biz](https://tilson.biz), _self-employed_
 
-_Feb 2020 – Present_
+_Feb 2020 – Feb 2022_
 
 * Golang, Microservices, REST, gRPC
 * GitHub Actions, Docker, Kubernetes
@@ -70,7 +72,7 @@ _Oct 2007 – Jan 2009_
 * Production environment system administration
   * RHEL, CentOS, Debian, VMWare, Svn, Apache, MySQL, sendmail
 
-#### Lead System Engineer in Belarusian Telecommunication Network
+#### Lead System Engineer in  [Belarusian Telecommunication Network](https://life.com.by)
 
 _May 2005 – Jun 2007_
 
@@ -80,7 +82,7 @@ _May 2005 – Jun 2007_
   * HP ProLiant, HP AlphaServers, HP Integrity, Alcatel 8690 OSP 2.3, Cisco MDS 9000
   * Corba, SS7, GSM
 
-#### Linux System Administrator in Elilink Consulting
+#### Linux System Administrator in  [Elilink Consulting](https://www.elilink.com)
 
 _Oct 2004 – May 2005_
 
@@ -130,19 +132,24 @@ _1993 – 1998_
 
 ## Licenses & certifications
 
+#### CKS: Certified Kubernetes Security Specialist |  [The Linux Foundation](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/)
+
+* [Issued](https://www.credly.com/badges/fd2cabdf-7961-4f1a-b0f2-ba5701cc3fdc/public_url): [Dec 2023](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/74e4c2de-5b8b-5e82-a9a2-07b81ecb6108-michael-loginovsky-afdc8130-9dd6-4a4f-939d-2869de1ff09b-certificate.pdf) | [pdf](https://loginovsky.com/michael-loginovsky-cks.pdf)
+* Expires: Dec 2025
+
 #### HashiCorp Certified: Terraform Associate |  [HashiCorp](https://www.hashicorp.com/certification/terraform-associate)
 
-* Issued:  [Mar 2022](https://www.credly.com/badges/fd38932a-23e5-476b-bdba-4783cbede490) | [pdf](https://loginovsky.com/terraform-associate.pdf)
+* Issued:  [Mar 2022](https://www.credly.com/badges/4e1288d6-0675-44ae-a533-55869d5911a3/public_url) | [pdf](https://loginovsky.com/michael-loginovsky-tf-associate.pdf)
 * Expires: Mar 2024
 
 #### CKA: Certified Kubernetes Administrator |  [The Linux Foundation](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 
-* Issued:  [Jan 2022](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/74e4c2de-5b8b-5e82-a9a2-07b81ecb6108-michael-loginovsky-5b222273-00b3-4610-9cd4-e0ea4099325a-certificate.pdf)
+* [Issued](https://www.credly.com/badges/1c99169b-69b2-4379-ae30-51e8d50e5805/public_url):  [Jan 2022](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/74e4c2de-5b8b-5e82-a9a2-07b81ecb6108-michael-loginovsky-5b222273-00b3-4610-9cd4-e0ea4099325a-certificate.pdf) | [pdf](https://loginovsky.com/michael-loginovsky-cka.pdf)
 * Expires: Jan 2025
 
 #### CKAD: Certified Kubernetes Application Developer |  [The Linux Foundation](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
 
-* Issued:  [Dec 2021](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/74e4c2de-5b8b-5e82-a9a2-07b81ecb6108-michael-loginovsky-c7aa2ab5-5dfa-4649-8271-cfe34ba7bb06-certificate.pdf)
+* [Issued](https://www.credly.com/badges/aa96608c-241b-4888-8fd0-9430baf80def/public_url):  [Dec 2021](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/74e4c2de-5b8b-5e82-a9a2-07b81ecb6108-michael-loginovsky-c7aa2ab5-5dfa-4649-8271-cfe34ba7bb06-certificate.pdf) | [pdf](https://loginovsky.com/michael-loginovsky-ckad.pdf)
 * Expires: Dec 2024
 
 #### Preparing for Google Cloud Certification: Cloud Data Engineer |  [Coursera](https://www.coursera.org/professional-certificates/gcp-data-engineering)
